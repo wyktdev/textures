@@ -1,6 +1,6 @@
 # Blender 5.1.1
 # www.blender.org
-mtllib keyperbodyonly.mtl
+mtllib bodysnipe.mtl
 o body
 v 2.736801 -0.386469 -0.114236
 v 2.626892 -0.506402 0.104603
