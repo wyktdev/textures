@@ -1,6 +1,6 @@
 # Blender 4.5.2 LTS
 # www.blender.org
-mtllib mpx.mtl
+mtllib tuff.mtl
 o Arm_Left
 v 0.524527 0.160459 0.068391
 v 0.524527 0.160459 0.068391
